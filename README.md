@@ -5,4 +5,4 @@ It would be cool to develop two software:
  - one for the TV box in Unity;
  - one for the smartphone.
 
-The smartphone must read from his own giroscope and change the position of the object in the Unity project according to the movement that the user want to have for the object in the screen.
+The smartphone must read from his own gyroscope and change the position of the object in the Unity project according to the movement that the user want to have for the object in the screen.
