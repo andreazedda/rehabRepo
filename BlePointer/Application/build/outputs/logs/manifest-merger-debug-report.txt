@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:18:1-56:12
+INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:18:1-56:12
+INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:18:1-56:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d3dba69575bada8c8f1900d662c89724\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\b37be3d5f118b0f84c243d0057c727b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\33de2d618c67c5bfe1688683310b666f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9f256dce10bc85ffa8310a19f0c5c0ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\5181ff51532b1bbbd4580118a69ea82b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\049e4eb7963d0d28fc3aa89bd01b33bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\4328622628246b360dea929dda583cba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9250814071297a5b07d8bcc0d72308c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\79b24e9e4a9f0655896948c48a29305f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\34350f7ee46ef84ccbbaec173b2760e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5b0f1a03aa77743f901e0928c3c7371a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\059ff49e484c32413ca966a071591c41\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:18:1-56:12
+INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:18:1-56:12
+	package
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:19:5-48
+	android:versionName
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:22:5-30
+		INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:20:5-63
+	android:versionCode
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:21:5-28
+		INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:25:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:26:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:29:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:30:5-67
+	android:name
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:30:22-65
+application
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:32:5-54:19
+	android:label
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:36:9-40
+activity#com.example.android.bluetoothchat.MainActivity
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:41:13-45
+	android:configChanges
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:39:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:43:17-68
+	android:name
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:44:27-74
+activity#com.example.android.bluetoothchat.DeviceListActivity
+ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:48:9-52:63
+	android:label
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:51:13-50
+	android:configChanges
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:50:13-63
+	android:theme
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:52:13-61
+	android:name
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml:49:13-47
+uses-sdk
+INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d3dba69575bada8c8f1900d662c89724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d3dba69575bada8c8f1900d662c89724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\b37be3d5f118b0f84c243d0057c727b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\b37be3d5f118b0f84c243d0057c727b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\33de2d618c67c5bfe1688683310b666f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\33de2d618c67c5bfe1688683310b666f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9f256dce10bc85ffa8310a19f0c5c0ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9f256dce10bc85ffa8310a19f0c5c0ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\5181ff51532b1bbbd4580118a69ea82b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\5181ff51532b1bbbd4580118a69ea82b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\049e4eb7963d0d28fc3aa89bd01b33bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\049e4eb7963d0d28fc3aa89bd01b33bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\4328622628246b360dea929dda583cba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\4328622628246b360dea929dda583cba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9250814071297a5b07d8bcc0d72308c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9250814071297a5b07d8bcc0d72308c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\79b24e9e4a9f0655896948c48a29305f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\79b24e9e4a9f0655896948c48a29305f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\34350f7ee46ef84ccbbaec173b2760e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\34350f7ee46ef84ccbbaec173b2760e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5b0f1a03aa77743f901e0928c3c7371a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5b0f1a03aa77743f901e0928c3c7371a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\059ff49e484c32413ca966a071591c41\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\059ff49e484c32413ca966a071591c41\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Andre\OneDrive\Documents\Projects\RehabRepo\BlePointer\Application\src\main\AndroidManifest.xml

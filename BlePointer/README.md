@@ -1,24 +1,33 @@
 
-Android BluetoothLeGatt Sample
+Android BluetoothChat Sample
 ===================================
 
-This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
-to transmit arbitrary data between devices.
+This sample shows how to implement two-way text chat over Bluetooth between two Android devices, using
+all the fundamental Bluetooth API capabilities.
 
 Introduction
 ------------
 
-This sample shows a list of available Bluetooth LE devices and provides
-an interface to connect, display data and display GATT services and
-characteristics supported by the devices.
+This sample should be run on two Android devices at the same time, to establish a two-way chat over
+Bluetooth between the devices. Select "Made discoverable" in overflow menu on one device and click
+on the Bluetooth icon on the other one, to find the device and establish the connection.
 
-It creates a [Service][1] for managing connection and data communication with a GATT server
-hosted on a given Bluetooth LE device.
+The sample demonstrates the following, using the [Bluetooth API][1]:
 
-The Activities communicate with the Service, which in turn interacts with the [Bluetooth LE API][2].
+1. [Setting up][2] Bluetooth
+2. [Scanning][3] for other Bluetooth devices
+3. [Querying][4] the local Bluetooth adapter for paired Bluetooth devices
+4. [Establishing RFCOMM][5] channels/sockets
+5. [Connecting][6] to a remote device
+6. [Transfering][7] data over Bluetooth
 
-[1]:http://developer.android.com/reference/android/app/Service.html
-[2]:https://developer.android.com/reference/android/bluetooth/BluetoothGatt.html
+[1]: http://developer.android.com/guide/topics/connectivity/bluetooth.html
+[2]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#Permissions
+[3]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#FindingDevices
+[4]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#QueryingPairedDevices
+[5]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#ConnectingDevices
+[6]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#ConnectingAsAClient
+[7]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#ManagingAConnection
 
 Pre-requisites
 --------------
@@ -30,7 +39,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-detail.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/1-launch.png" height="400" alt="Screenshot"/> <img src="screenshots/2-devices.png" height="400" alt="Screenshot"/> <img src="screenshots/3-chat.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
@@ -45,7 +54,7 @@ Support
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-BluetoothLeGatt
+https://github.com/googlesamples/android-BluetoothChat
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
